@@ -133,7 +133,6 @@ The application will open in your browser.
 
 **Mayur Arya**
 
-B.Tech – Chemical Engineering
 
 GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
 
