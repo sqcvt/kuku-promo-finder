@@ -1,0 +1,8 @@
+pandas
+pydantic
+python-dotenv
+streamlit
+pytest
+google-genai
+groq
+streamlit
