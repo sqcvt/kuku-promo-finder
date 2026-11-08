@@ -8,7 +8,7 @@ The system analyzes screenplay content to find potential promo segments based on
 
 ## 🌐 Prototype Link
 
-**Live Prototype:** [Open Kuku Promo Finder](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+**Live Prototype:** [Open Kuku Promo Finder](https://kuku-promo-finder-lexrirmavpi3xrw8xtgcyc.streamlit.app/))
 
 ## ✨ Key Features
 
