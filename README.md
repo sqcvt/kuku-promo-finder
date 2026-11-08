@@ -46,10 +46,9 @@ The current implementation was tested on 50 screenplay episodes.
 |---|---:|
 | Episodes Parsed | 50 |
 | Candidates Generated | 252 |
-| Successfully Evaluated Candidates | 51 |
-| Episodes with Successful Evaluations | 31 |
+| Successfully Evaluated Candidates | 100|
 
-**Note:** Due to Groq API token limits, only 51 candidates were successfully evaluated in this run. Precision and recall have not been measured because a complete human-labelled validation dataset is not available.
+**Note:** Due to Groq API token limits, only 100 candidates were successfully evaluated in this run. Precision and recall have not been measured because a complete human-labelled validation dataset is not available.
 
 ## 📁 Project Structure
 
