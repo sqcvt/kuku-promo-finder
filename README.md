@@ -132,9 +132,5 @@ The application will open in your browser.
 
 **Mayur Arya**
 
-
-GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-
 ---
 
-*Developed as part of the Kuku AI Generalist Assignment.*
